@@ -7,21 +7,21 @@
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Main Title."
+          "_comment": "Main Title."
         },
         "tablet": {
           "fontSize": "28px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Main Title."
+          "_comment": "Main Title."
         },
         "desktop": {
           "fontSize": "48px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Main Title."
+          "_comment": "Main Title."
         }
       }
     },
@@ -32,21 +32,21 @@
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Section Title."
+          "_comment": "Section Title."
         },
         "tablet": {
           "fontSize": "24px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Section Title."
+          "_comment": "Section Title."
         },
         "desktop": {
           "fontSize": "35px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Section Title."
+          "_comment": "Section Title."
         }
       }
     },
@@ -57,21 +57,21 @@
           "lineHeight": 1.2,
           "fontWeight": "semi-bold",
           "fontFamily": "Inter",
-          "description": "Subsection."
+          "_comment": "Subsection."
         },
         "tablet": {
           "fontSize": "20px",
           "lineHeight": 1.2,
           "fontWeight": "semi-bold",
           "fontFamily": "Inter",
-          "description": "Subsection."
+          "_comment": "Subsection."
         },
         "desktop": {
           "fontSize": "28px",
           "lineHeight": 1.2,
           "fontWeight": "semi-bold",
           "fontFamily": "Inter",
-          "description": "Subsection."
+          "_comment": "Subsection."
         }
       }
     },
@@ -82,21 +82,21 @@
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Card headers, smaller section titles."
+          "_comment": "Card headers, smaller section titles."
         },
         "tablet": {
           "fontSize": "18px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Card headers, smaller section titles."
+          "_comment": "Card headers, smaller section titles."
         },
         "desktop": {
           "fontSize": "23px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Card headers, smaller section titles."
+          "_comment": "Card headers, smaller section titles."
         }
       }
     },
@@ -107,21 +107,21 @@
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Field labels, secondary headings."
+          "_comment": "Field labels, secondary headings."
         },
         "tablet": {
           "fontSize": "16px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Field labels, secondary headings."
+          "_comment": "Field labels, secondary headings."
         },
         "desktop": {
           "fontSize": "20px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Secondary headings."
+          "_comment": "Secondary headings."
         }
       }
     },
@@ -132,21 +132,21 @@
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Subsections of the page."
+          "_comment": "Subsections of the page."
         },
         "tablet": {
           "fontSize": "14px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Subsections of the page."
+          "_comment": "Subsections of the page."
         },
         "desktop": {
           "fontSize": "16px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
           "fontFamily": "Inter",
-          "description": "Field labels."
+          "_comment": "Field labels."
         }
       }
     },
@@ -157,7 +157,7 @@
           "lineHeight": 1.6,
           "fontWeight": "regular",
           "fontFamily": "Inter",
-          "description": "Main body text.",
+          "_comment": "Main body text.",
           "letterSpacing": "0.5px"
         },
         "tablet": {
@@ -165,7 +165,7 @@
           "lineHeight": 1.6,
           "fontWeight": "regular",
           "fontFamily": "Inter",
-          "description": "Main body text.",
+          "_comment": "Main body text.",
           "letterSpacing": "0.5px"
         },
         "desktop": {
@@ -173,7 +173,7 @@
           "lineHeight": 1.6,
           "fontWeight": "regular",
           "fontFamily": "Inter",
-          "description": "Main body text.",
+          "_comment": "Main body text.",
           "letterSpacing": "0.5px"
         }
       }
