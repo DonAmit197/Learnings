@@ -1,0 +1,182 @@
+{
+  "typography": [
+    {
+      "h1": {
+        "mobile": {
+          "fontSize": "24px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Main Title."
+        },
+        "tablet": {
+          "fontSize": "28px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Main Title."
+        },
+        "desktop": {
+          "fontSize": "48px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Main Title."
+        }
+      }
+    },
+    {
+      "h2": {
+        "mobile": {
+          "fontSize": "20px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Section Title."
+        },
+        "tablet": {
+          "fontSize": "24px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Section Title."
+        },
+        "desktop": {
+          "fontSize": "35px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Section Title."
+        }
+      }
+    },
+    {
+      "h3": {
+        "mobile": {
+          "fontSize": "18px",
+          "lineHeight": 1.2,
+          "fontWeight": "semi-bold",
+          "fontFamily": "Inter",
+          "description": "Subsection."
+        },
+        "tablet": {
+          "fontSize": "20px",
+          "lineHeight": 1.2,
+          "fontWeight": "semi-bold",
+          "fontFamily": "Inter",
+          "description": "Subsection."
+        },
+        "desktop": {
+          "fontSize": "28px",
+          "lineHeight": 1.2,
+          "fontWeight": "semi-bold",
+          "fontFamily": "Inter",
+          "description": "Subsection."
+        }
+      }
+    },
+    {
+      "h4": {
+        "mobile": {
+          "fontSize": "16px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Card headers, smaller section titles."
+        },
+        "tablet": {
+          "fontSize": "18px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Card headers, smaller section titles."
+        },
+        "desktop": {
+          "fontSize": "23px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Card headers, smaller section titles."
+        }
+      }
+    },
+    {
+      "h5": {
+        "mobile": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Field labels, secondary headings."
+        },
+        "tablet": {
+          "fontSize": "16px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Field labels, secondary headings."
+        },
+        "desktop": {
+          "fontSize": "20px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Secondary headings."
+        }
+      }
+    },
+    {
+      "h6": {
+        "mobile": {
+          "fontSize": "13px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Subsections of the page."
+        },
+        "tablet": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Subsections of the page."
+        },
+        "desktop": {
+          "fontSize": "16px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter",
+          "description": "Field labels."
+        }
+      }
+    },
+    {
+      "body-large": {
+        "mobile": {
+          "fontSize": "16px",
+          "lineHeight": 1.6,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "description": "Main body text.",
+          "letterSpacing": "0.5px"
+        },
+        "tablet": {
+          "fontSize": "16px",
+          "lineHeight": 1.6,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "description": "Main body text.",
+          "letterSpacing": "0.5px"
+        },
+        "desktop": {
+          "fontSize": "18px",
+          "lineHeight": 1.6,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "description": "Main body text.",
+          "letterSpacing": "0.5px"
+        }
+      }
+    }
+  ]
+}
