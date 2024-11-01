@@ -6,22 +6,19 @@
           "fontSize": "24px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Main Title."
+          "fontFamily": "Inter"
         },
         "tablet": {
           "fontSize": "28px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Main Title."
+          "fontFamily": "Inter"
         },
         "desktop": {
           "fontSize": "48px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Main Title."
+          "fontFamily": "Inter"
         }
       }
     },
@@ -31,22 +28,19 @@
           "fontSize": "20px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Section Title."
+          "fontFamily": "Inter"
         },
         "tablet": {
           "fontSize": "24px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Section Title."
+          "fontFamily": "Inter"
         },
         "desktop": {
           "fontSize": "35px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Section Title."
+          "fontFamily": "Inter"
         }
       }
     },
@@ -56,22 +50,19 @@
           "fontSize": "18px",
           "lineHeight": 1.2,
           "fontWeight": "semi-bold",
-          "fontFamily": "Inter",
-          "_comment": "Subsection."
+          "fontFamily": "Inter"
         },
         "tablet": {
           "fontSize": "20px",
           "lineHeight": 1.2,
           "fontWeight": "semi-bold",
-          "fontFamily": "Inter",
-          "_comment": "Subsection."
+          "fontFamily": "Inter"
         },
         "desktop": {
           "fontSize": "28px",
           "lineHeight": 1.2,
           "fontWeight": "semi-bold",
-          "fontFamily": "Inter",
-          "_comment": "Subsection."
+          "fontFamily": "Inter"
         }
       }
     },
@@ -81,22 +72,19 @@
           "fontSize": "16px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Card headers, smaller section titles."
+          "fontFamily": "Inter"
         },
         "tablet": {
           "fontSize": "18px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Card headers, smaller section titles."
+          "fontFamily": "Inter"
         },
         "desktop": {
           "fontSize": "23px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Card headers, smaller section titles."
+          "fontFamily": "Inter"
         }
       }
     },
@@ -106,22 +94,19 @@
           "fontSize": "14px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Field labels, secondary headings."
+          "fontFamily": "Inter"
         },
         "tablet": {
           "fontSize": "16px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Field labels, secondary headings."
+          "fontFamily": "Inter"
         },
         "desktop": {
           "fontSize": "20px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Secondary headings."
+          "fontFamily": "Inter"
         }
       }
     },
@@ -131,22 +116,19 @@
           "fontSize": "13px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Subsections of the page."
+          "fontFamily": "Inter"
         },
         "tablet": {
           "fontSize": "14px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Subsections of the page."
+          "fontFamily": "Inter"
         },
         "desktop": {
           "fontSize": "16px",
           "lineHeight": 1.2,
           "fontWeight": "bold",
-          "fontFamily": "Inter",
-          "_comment": "Field labels."
+          "fontFamily": "Inter"
         }
       }
     },
@@ -157,7 +139,6 @@
           "lineHeight": 1.6,
           "fontWeight": "regular",
           "fontFamily": "Inter",
-          "_comment": "Main body text.",
           "letterSpacing": "0.5px"
         },
         "tablet": {
@@ -165,7 +146,6 @@
           "lineHeight": 1.6,
           "fontWeight": "regular",
           "fontFamily": "Inter",
-          "_comment": "Main body text.",
           "letterSpacing": "0.5px"
         },
         "desktop": {
@@ -173,8 +153,189 @@
           "lineHeight": 1.6,
           "fontWeight": "regular",
           "fontFamily": "Inter",
-          "_comment": "Main body text.",
           "letterSpacing": "0.5px"
+        }
+      }
+    },
+    {
+      "body-medium": {
+        "mobile": {
+          "fontSize": "14px",
+          "lineHeight": 1.6,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "letterSpacing": "0.5px"
+        },
+        "tablet": {
+          "fontSize": "14px",
+          "lineHeight": 1.6,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "letterSpacing": "0.5px"
+        },
+        "desktop": {
+          "fontSize": "16px",
+          "lineHeight": 1.6,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "letterSpacing": "0.5px"
+        }
+      }
+    },
+    {
+      "info": {
+        "mobile": {
+          "fontSize": "12px",
+          "lineHeight": 1.4,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "letterSpacing": "0.5px"
+        },
+        "tablet": {
+          "fontSize": "12px",
+          "lineHeight": 1.4,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "letterSpacing": "0.5px"
+        },
+        "desktop": {
+          "fontSize": "13px",
+          "lineHeight": 1.4,
+          "fontWeight": "regular",
+          "fontFamily": "Inter",
+          "letterSpacing": "0.5px"
+        }
+      }
+    },
+    {
+      "button": {
+        "mobile": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter"
+        },
+        "tablet": {
+          "fontSize": "15px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter"
+        },
+        "desktop": {
+          "fontSize": "16px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter"
+        }
+      }
+    },
+    {
+      "button_small": {
+        "mobile": {
+          "fontSize": "12px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter"
+        },
+        "tablet": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter"
+        },
+        "desktop": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "bold",
+          "fontFamily": "Inter"
+        }
+      }
+    },
+    {
+      "field-input": {
+        "mobile": {
+          "fontSize": "14px",
+          "lineHeight": 1.4,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        },
+        "tablet": {
+          "fontSize": "16px",
+          "lineHeight": 1.4,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        },
+        "desktop": {
+          "fontSize": "18px",
+          "lineHeight": 1.4,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        }
+      }
+    },
+    {
+      "tab-labels": {
+        "mobile": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "semi-bold",
+          "fontFamily": "Inter"
+        },
+        "tablet": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "semi-bold",
+          "fontFamily": "Inter"
+        },
+        "desktop": {
+          "fontSize": "14px",
+          "lineHeight": 1.2,
+          "fontWeight": "semi-bold",
+          "fontFamily": "Inter"
+        }
+      }
+    },
+    {
+      "chips": {
+        "mobile": {
+          "fontSize": "12px",
+          "lineHeight": 1.2,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        },
+        "tablet": {
+          "fontSize": "12px",
+          "lineHeight": 1.2,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        },
+        "desktop": {
+          "fontSize": "12px",
+          "lineHeight": 1.2,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        }
+      }
+    },
+    {
+      "tooltip": {
+        "mobile": {
+          "fontSize": "12px",
+          "lineHeight": 1.3,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        },
+        "tablet": {
+          "fontSize": "12px",
+          "lineHeight": 1.3,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
+        },
+        "desktop": {
+          "fontSize": "12px",
+          "lineHeight": 1.3,
+          "fontWeight": "regular",
+          "fontFamily": "Inter"
         }
       }
     }
